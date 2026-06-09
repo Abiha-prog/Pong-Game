@@ -61,12 +61,19 @@ Right paddle: Player-controlled
 ## Project Structure
 
 pong-game/
+
 │
+
 ├── main.cpp                 # Main game logic (Pong implementation)
+
 ├── pong-demo.gif           # Gameplay demonstration
+
 ├── raylib-pong.slnx        # Visual Studio solution file
+
 ├── raylib-pong.vcxproj     # Project configuration file
+
 ├── raylib-pong.vcxproj.filters
+
 └── README.md               # Project documentation
 
 ---
