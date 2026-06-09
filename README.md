@@ -70,6 +70,12 @@ This repository contains only the source code. External dependencies (raylib and
 
 ---
 
+## Project Purpose
+
+Built to practice object-oriented programming, game loops, and basic physics simulation in C++.
+
+---
+
 ## Author
 Abiha Talpur
 BSc Software Engineering Student | Mehran University of Engineering & Technology
