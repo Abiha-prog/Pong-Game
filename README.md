@@ -92,6 +92,7 @@ Built to practice object-oriented programming, game loops, and basic physics sim
 
 ## Author
 Abiha Talpur
+
 BSc Software Engineering Student | Mehran University of Engineering & Technology
 
 ---
